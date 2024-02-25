@@ -2,4 +2,6 @@
 
 == 1章
 
+* https://coreos.github.io/ignition/configuration-v3_1/
+
 NOTE: これは注意してください。
