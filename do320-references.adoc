@@ -4,5 +4,6 @@
 
 * https://coreos.github.io/ignition/configuration-v3_1/[Ignition - Configuration Specification v3.1.0]
 * https://access.redhat.com/documentation/ja-jp/openshift_container_platform/4.6/html-single/architecture/index#architecture-rhcos[Red Hat Enterprise Linux CoreOS (RHCOS)]
+* https://access.redhat.com/documentation/ja-jp/openshift_container_platform/4.6/html/architecture/architecture-installation[OpenShift Container Platform インストールの概要]
 
 //NOTE: これは注意してください。
