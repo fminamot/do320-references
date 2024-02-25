@@ -2,6 +2,6 @@
 
 == 1章
 
-* https://coreos.github.io/ignition/configuration-v3_1/
+* https://coreos.github.io/ignition/configuration-v3_1/[Ignition - Configuration Specification v3.1.0]
 
 NOTE: これは注意してください。
